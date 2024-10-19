@@ -1,0 +1,1 @@
+repo-add -n seabreeze-os.db.tar.gz *.pkg.tar.zst*
